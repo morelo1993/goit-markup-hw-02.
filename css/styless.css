@@ -39,7 +39,7 @@ body {
   text-decoration: none;
   color: var(--secundary-color);
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.5;
 }
 .header-post:hover {
   color: var(--one-color-);
@@ -80,7 +80,7 @@ color: var(--one-color-);
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   text-align: center;
@@ -130,7 +130,7 @@ color: var(--one-color-);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.5;
   
 }
 .p-h3 {
@@ -138,7 +138,7 @@ color: var(--one-color-);
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.5;
 }
 /*pg*/
 .tex-pie {
@@ -168,7 +168,7 @@ color: var(--one-color-);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.5;
   border: none;
   padding: 6px 24px;
   border-radius: 5px;
@@ -196,5 +196,5 @@ color: var(--one-color-);
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.5;
 }
