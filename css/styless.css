@@ -31,17 +31,14 @@ body {
   list-style-type: none;
   text-decoration: none;
 }
-.header:focus {
-  color: var(--tree-color);
-  background-color: var(--one-color-);
-}
 .header-post {
   text-decoration: none;
   color: var(--secundary-color);
   font-size: 16px;
   line-height: 1.5;
 }
-.header-post:hover {
+.header-post:hover,
+.header-post:focus {
   color: var(--one-color-);
 }
 .current{
@@ -55,7 +52,8 @@ color: var(--one-color-);
   line-height: 16px;
   letter-spacing: 0.02em;
 }
-.contactos:hover,.contactos:focus {
+.contactos:hover,
+.contactos:focus {
   color: var(--one-color-);
 }
 /*titulo*/
